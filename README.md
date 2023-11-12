@@ -1,0 +1,2 @@
+# parasite
+Simpler than Ansible
