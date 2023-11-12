@@ -9,4 +9,4 @@ class HostConfig:
         self.port = port
         self.ssh_key = ssh_key
         self.username = username
-        self.password = password
+        self.password = password # Assumed having root priviledges # TODO: Refactor
