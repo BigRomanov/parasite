@@ -1,0 +1,2 @@
+class ParasiteConnectException(Exception):
+    pass
